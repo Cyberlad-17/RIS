@@ -112,7 +112,6 @@ RIS performs a semantic search across runbooks stored as YAML, Markdown, and str
 | AI / LLM | Glean LLM API, RAG Pipeline |
 | Message Queue | Redis |
 | Container Orchestration | Kubernetes, Amazon EKS |
-| CI/CD | Jenkins CI, ArgoCD |
 | Notification & Approval | Slack API |
 | Automation | Ansible Playbooks |
 | Observability | Prometheus, Grafana |
@@ -126,12 +125,6 @@ RIS performs a semantic search across runbooks stored as YAML, Markdown, and str
 - **30% improvement** in average incident turnaround time
 - **Zero SLA breaches** across all incidents processed through the RIS pipeline
 - **100% audit coverage** — every remediation action logged with full execution trace
-
----
-
-## Project Page
-
-View the full project documentation at the live project site.
 
 ---
 
